@@ -1,0 +1,51 @@
+{
+ "firma": "Hofgut Kasnevitz",
+ "stelle": "Mitarbeiter Außenwirtschaft & Werkstatt (m/w/d)",
+ "ort": "Kasnevitz",
+ "umg": "Kasnevitz · Putbus · Bergen auf Rügen",
+ "sg_photo": [
+  "raw/s-maehdrescher-bodden.jpg",
+  "50% 55%"
+ ],
+ "sg_ring": [
+  "FAMILIENGEFÜHRT",
+  "INSEL RÜGEN"
+ ],
+ "sg_small": "HEKTAR",
+ "sg_big": "1.700",
+ "sg_big_size": 72,
+ "sg_sub": "Moderne Landtechnik fahren und in der eigenen Werkstatt in Schuss halten.",
+ "pola": [
+  [
+   "Saat",
+   "raw/s-schlepper-drille.jpg",
+   "50% 55%",
+   75,
+   335,
+   -5
+  ],
+  [
+   "Ernte",
+   "raw/s-ernte-ueberladen.jpg",
+   "50% 45%",
+   560,
+   310,
+   4
+  ],
+  [
+   "Auf Rügen",
+   "raw/s-maehdrescher-bodden.jpg",
+   "50% 60%",
+   255,
+   705,
+   -2
+  ]
+ ],
+ "pola_size": 56,
+ "pola_zoom": "cover",
+ "zentrum": [
+  54.3361227,
+  13.4192026
+ ],
+ "logo": "logo-hd.png"
+}

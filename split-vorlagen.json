@@ -1,0 +1,44 @@
+[
+ {
+  "name": "V03-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "raw/s-pfluegen-sonne.jpg",
+  "primary": "#2B2B2B",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN KASNEVITZ (18581)",
+  "headline": [
+   "Mitarbeiter Außenwirtschaft",
+   "& Werkstatt (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristet in Vollzeit",
+   "Sommer aufs Feld, Winter in die Werkstatt",
+   "Hilfe bei der Wohnungssuche"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "V03-checkliste",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "foto": "raw/s-zwei-maehdrescher.jpg",
+  "primary": "#2B2B2B",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.65,
+   0.3
+  ],
+  "kicker": "KASNEVITZ (18581) · RÜGEN",
+  "headline": [
+   "Mitarbeiter Außen-",
+   "wirtschaft & Werkstatt"
+  ],
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

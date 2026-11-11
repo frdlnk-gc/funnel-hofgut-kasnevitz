@@ -1,0 +1,37 @@
+[
+ {
+  "name": "V04-collage",
+  "logo": "logo-hd.png",
+  "fotos": [
+   "raw/s-ernte-ueberladen.jpg",
+   "raw/s-schlepper-drille.jpg",
+   "raw/s-maehdrescher-bodden.jpg"
+  ],
+  "fokus": [
+   [
+    0.5,
+    0.5
+   ],
+   [
+    0.55,
+    0.6
+   ],
+   [
+    0.5,
+    0.6
+   ]
+  ],
+  "primary": "#2B2B2B",
+  "headline": [
+   "Mitarbeiter",
+   "Außenwirtschaft"
+  ],
+  "headline_zusatz": "& Werkstatt (m/w/d)",
+  "ort": "Kasnevitz (18581) & Umgebung",
+  "cta": [
+   "Jetzt unverbindliches",
+   "Job-Angebot erhalten –",
+   "mit 1 Klick!"
+  ]
+ }
+]

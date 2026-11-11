@@ -1,0 +1,144 @@
+{
+ "firma": "Hofgut Kasnevitz",
+ "stelle": "Mitarbeiter Außenwirtschaft & Werkstatt (m/w/d)",
+ "ort": "Kasnevitz",
+ "plz": "18581",
+ "branche": "landwirtschaft",
+ "stelle_id": 1484,
+ "farbe_primary": "#2B2B2B",
+ "farbe_secondary": "#FFFF49",
+ "region_badge": "Kasnevitz & Umgebung",
+ "benefit_top": "Feld & Werkstatt auf Rügen",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Weihnachtsgeld",
+  "Hilfe bei der Wohnungssuche",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Kostenlose Mahlzeiten bzw. Verpflegungspauschale",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Betriebsausflüge"
+ ],
+ "aufgaben": [
+  "Du fährst Schlepper und Erntemaschinen bei Bodenbearbeitung, Saat, Düngung, Pflanzenschutz und Ernte",
+  "Du wartest, inspizierst und reparierst Schlepper, Anbaugeräte und Erntetechnik in der betriebseigenen Werkstatt",
+  "Du übernimmst Pflege- und Transportarbeiten rund um die Feldarbeit",
+  "Du setzt die Technik im Winter instand und bereitest sie auf die Saison vor",
+  "Du suchst Fehler an Hydraulik und Elektronik und stimmst dich mit Fachwerkstätten ab",
+  "Du pflegst Hof und Betriebsanlagen und erledigst kleinere Schweiß- und Schlosserarbeiten"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Landwirt, Landmaschinenmechatroniker oder vergleichbar – alternativ mehrjährige Praxis in Ackerbau und Reparatur von Landtechnik. Dazu Führerschein Klasse T (idealerweise BE und CE), sicherer Umgang mit moderner Schleppertechnik, GPS-Lenksystemen und Anbaugeräten sowie Freude an Technik und Fehlersuche. Den Pflanzenschutz-Sachkundenachweis kannst du im Betrieb erwerben.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirtschaft / Ackerbau",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landmaschinen / Landtechnik",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse T",
+   "icon": "🚜"
+  },
+  {
+   "label": "Ja, Klasse T + BE",
+   "icon": "🚚"
+  },
+  {
+   "label": "Ja, Klasse T + CE",
+   "icon": "🚛"
+  },
+  {
+   "label": "Nur Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1.700",
+    "label": "Hektar Ackerfläche"
+   },
+   {
+    "zahl": "2005",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Das Hofgut Kasnevitz ist ein familiengeführter Ackerbaubetrieb auf der Insel Rügen. Rund um Putbus bewirtschaftet das kleine, eingespielte Team die Flächen mit moderner Technik – mit Blick auf Biodiversität und standortangepasste Bewirtschaftung: Blühflächen, Hecken und extensive Randstrukturen gehören genauso dazu wie präzise Aussaat und sauber gewartete Maschinen. Die Wege sind kurz, die Entscheidungen schnell. Wer mitdenkt, bekommt Verantwortung – und wer Technik mag, findet einen gepflegten Maschinenpark und eine eigene Werkstatt."
+ },
+ "kunde_tab": "49 Hofgut Kasnevitz",
+ "quelle": "https://hofgut-kasnevitz.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Kasnevitz (18581)"
+ },
+ "hero_bild": "img/hero-maehdrescher-sonnenuntergang.jpg",
+ "bilder": [
+  "img/f1-ernte-ueberladen.jpg",
+  "img/f2-schlepper-drillmaschine.jpg",
+  "img/f3-maehdrescher-bodden.jpg",
+  "img/f4-bodenbearbeitung.jpg",
+  "img/f5-raps.jpg",
+  "img/f6-heckenschere.jpg",
+  "img/f7-halle-werkstatt.jpg",
+  "img/f8-team.jpg",
+  "img/f9-hof-luftbild.jpg"
+ ],
+ "meta_geo": [
+  "Dorfstraße 30b, 18581 Kasnevitz"
+ ]
+}
